@@ -1,0 +1,2 @@
+# lbash
+learning bash
